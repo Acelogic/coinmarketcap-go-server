@@ -8,7 +8,10 @@ import (
 	"net/http"
 	"os"
 	"time"
+	"github.com/jamespearly/loggly"
+
 )
+
 
 func poll(){ 
 	url := "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest"
@@ -20,8 +23,12 @@ func poll(){
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Get Enviroment Variables For API Key
+
+	// Get Enviroment Variables For API Keys
 	apiKey := os.Getenv("COINMARKETCAP_API_KEY")
+	
+	// Establish Connection to Loggly API
+	client := loggly.New("CoinAPI")
 
 	//Make a request to the api
 	req, err = http.NewRequest(http.MethodGet, url, nil)
@@ -63,6 +70,11 @@ func poll(){
 	json.Unmarshal(body, coinList)
 	for i := 0; i < len(coinList.Data); i++ {
 		fmt.Printf("%d. %s (%s) - %.4f USD\n", coinList.Data[i].Rank, coinList.Data[i].Name, coinList.Data[i].Symbol, coinList.Data[i].Quote.USD.Price)
+		//Store in a string
+		coinString := fmt.Sprintf("%d. %s (%s) - %.4f USD", coinList.Data[i].Rank, coinList.Data[i].Name, coinList.Data[i].Symbol, coinList.Data[i].Quote.USD.Price)
+		//Send to loggly
+		err := client.EchoSend("info", coinString)
+		fmt.Println("err", err)
 	}
 
 	//serialize the coinlist to json
