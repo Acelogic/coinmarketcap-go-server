@@ -92,7 +92,7 @@ func main(){
   // poll the api every 15 minutes	
   for {
 		poll()
-		time.Sleep(time.Second * 2)
+		time.Sleep(time.Second * 30)
 	}
 }
 
