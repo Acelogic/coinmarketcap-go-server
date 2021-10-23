@@ -3,30 +3,31 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/aws/aws-sdk-go/aws/awserr"
+	"github.com/aws/aws-sdk-go/aws/session"
+	"github.com/aws/aws-sdk-go/service/dynamodb"
+	"github.com/jamespearly/loggly"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
 	"time"
-	"github.com/jamespearly/loggly"
-
 )
 
-
-func poll(){ 
+func poll() {
 	url := "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest"
-  
-  coinClient := http.Client{
-	Timeout: time.Second * 2, // Timeout after 2 seconds
-}
-  req, err := http.NewRequest(http.MethodGet, url, nil)
+
+	coinClient := http.Client{
+		Timeout: time.Second * 2, // Timeout after 2 seconds
+	}
+	req, err := http.NewRequest(http.MethodGet, url, nil)
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	// Get Enviroment Variables For API Keys
 	apiKey := os.Getenv("COINMARKETCAP_API_KEY")
-	
+
 	// Establish Connection to Loggly API
 	client := loggly.New("CoinAPI")
 
@@ -49,23 +50,23 @@ func poll(){
 		log.Fatal(readErr)
 	}
 
-    // Creating a strcut to hold the data from the response body	
-	type CoinList struct { 
+	// Creating a strcut to hold the data from the response body
+	type CoinList struct {
 		Data []struct {
-			Name string `json:"name"`
+			Name   string `json:"name"`
 			Symbol string `json:"symbol"`
-			Rank int `json:"cmc_rank"`
-			Quote struct {
+			Rank   int    `json:"cmc_rank"`
+			Quote  struct {
 				USD struct {
-					Price float64 `json:"price"`
-					MarketCap float64 `json:"market_cap"`
+					Price              float64 `json:"price"`
+					MarketCap          float64 `json:"market_cap"`
 					MarketCapDominance float64 `json:"market_cap_dominance"`
 				} `json:"USD"`
 			} `json:"quote"`
-		} `json:"data"`	
+		} `json:"data"`
 	}
 
-	// print out the coinlist and sort by rank and display price in USD with reduced precision 
+	// print out the coinlist and sort by rank and display price in USD with reduced precision
 	coinList := &CoinList{}
 	json.Unmarshal(body, coinList)
 	for i := 0; i < len(coinList.Data); i++ {
@@ -77,6 +78,14 @@ func poll(){
 		fmt.Println("err", err)
 	}
 
+	//Create a dynamoDB client
+	sess := session.Must(session.NewSessionWithOptions(session.Options{
+		SharedConfigState: session.SharedConfigEnable,
+	}))
+	svc := dynamodb.New(sess)
+
+	
+
 	//serialize the coinlist to json
 	jsonCoinList, _ := json.Marshal(coinList)
 	//write the json to a file
@@ -84,15 +93,14 @@ func poll(){
 
 	// pretty print the json
 	prettyJSON, _ := json.MarshalIndent(coinList, "", " ")
-	fmt.Println(string(prettyJSON)) 
+	fmt.Println(string(prettyJSON))
 
-} 
+}
 
-func main(){ 
-  // poll the api every 15 minutes	
-  for {
+func main() {
+	// poll the api every 15 minutes
+	for {
 		poll()
 		time.Sleep(time.Second * 30)
 	}
 }
-
