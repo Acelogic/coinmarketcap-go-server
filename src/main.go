@@ -198,6 +198,7 @@ func main() {
 	checkEnv()
 	for {
 		// 15 mins = 900 seconds
-		pollAndStore(5)
+		// 6 hours = 21600 seconds
+		pollAndStore(21600)
 	}
 }
