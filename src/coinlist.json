@@ -1,1 +1,1204 @@
-{"data":[{"name":"Bitcoin","symbol":"BTC","cmc_rank":1,"quote":{"USD":{"price":47757.85070583007,"market_cap":899420593598.3032,"market_cap_dominance":42.3767}}},{"name":"Ethereum","symbol":"ETH","cmc_rank":2,"quote":{"USD":{"price":3385.800307702554,"market_cap":398739274927.6974,"market_cap_dominance":18.7868}}},{"name":"Cardano","symbol":"ADA","cmc_rank":3,"quote":{"USD":{"price":2.24963677212329,"market_cap":72046388826.24312,"market_cap_dominance":3.3945}}},{"name":"Binance Coin","symbol":"BNB","cmc_rank":4,"quote":{"USD":{"price":427.8435663738452,"market_cap":71936349121.7676,"market_cap_dominance":3.3893}}},{"name":"Tether","symbol":"USDT","cmc_rank":5,"quote":{"USD":{"price":1.00034518866455,"market_cap":68047550812.50908,"market_cap_dominance":3.2061}}},{"name":"Solana","symbol":"SOL","cmc_rank":6,"quote":{"USD":{"price":169.10187656660023,"market_cap":50365396371.97171,"market_cap_dominance":2.373}}},{"name":"XRP","symbol":"XRP","cmc_rank":7,"quote":{"USD":{"price":1.03883492871735,"market_cap":48565989238.24457,"market_cap_dominance":2.2882}}},{"name":"USD Coin","symbol":"USDC","cmc_rank":8,"quote":{"USD":{"price":0.99972230748237,"market_cap":32112194659.05737,"market_cap_dominance":1.513}}},{"name":"Polkadot","symbol":"DOT","cmc_rank":9,"quote":{"USD":{"price":32.20308191884868,"market_cap":31803097580.923473,"market_cap_dominance":1.4984}}},{"name":"Dogecoin","symbol":"DOGE","cmc_rank":10,"quote":{"USD":{"price":0.21888499827249,"market_cap":28789675474.76525,"market_cap_dominance":1.3564}}},{"name":"Terra","symbol":"LUNA","cmc_rank":11,"quote":{"USD":{"price":41.3773616386935,"market_cap":16543200947.877724,"market_cap_dominance":0.7794}}},{"name":"Uniswap","symbol":"UNI","cmc_rank":12,"quote":{"USD":{"price":26.14382009601465,"market_cap":15990703478.69659,"market_cap_dominance":0.7534}}},{"name":"Avalanche","symbol":"AVAX","cmc_rank":13,"quote":{"USD":{"price":69.29685317698409,"market_cap":15265166597.61204,"market_cap_dominance":0.7192}}},{"name":"Binance USD","symbol":"BUSD","cmc_rank":14,"quote":{"USD":{"price":0.99979277318764,"market_cap":13105257186.862936,"market_cap_dominance":0.6175}}},{"name":"Chainlink","symbol":"LINK","cmc_rank":15,"quote":{"USD":{"price":26.87325030700974,"market_cap":12267895509.965363,"market_cap_dominance":0.578}}},{"name":"Litecoin","symbol":"LTC","cmc_rank":16,"quote":{"USD":{"price":169.29268672441742,"market_cap":11306462130.793495,"market_cap_dominance":0.5327}}},{"name":"Algorand","symbol":"ALGO","cmc_rank":17,"quote":{"USD":{"price":1.76545567677691,"market_cap":10719928944.175081,"market_cap_dominance":0.5051}}},{"name":"Bitcoin Cash","symbol":"BCH","cmc_rank":18,"quote":{"USD":{"price":550.6243566282964,"market_cap":10385807786.678347,"market_cap_dominance":0.4893}}},{"name":"Wrapped Bitcoin","symbol":"WBTC","cmc_rank":19,"quote":{"USD":{"price":47650.76162684249,"market_cap":9809884927.496113,"market_cap_dominance":0.4622}}},{"name":"Polygon","symbol":"MATIC","cmc_rank":20,"quote":{"USD":{"price":1.30146921700972,"market_cap":8683793885.819994,"market_cap_dominance":0.4091}}},{"name":"Cosmos","symbol":"ATOM","cmc_rank":21,"quote":{"USD":{"price":38.78092206691777,"market_cap":8621020855.68923,"market_cap_dominance":0.4062}}},{"name":"Internet Computer","symbol":"ICP","cmc_rank":22,"quote":{"USD":{"price":49.48357141034973,"market_cap":8236416072.914752,"market_cap_dominance":0.3881}}},{"name":"Filecoin","symbol":"FIL","cmc_rank":23,"quote":{"USD":{"price":70.38526084207493,"market_cap":7722132653.8880625,"market_cap_dominance":0.3638}}},{"name":"Stellar","symbol":"XLM","cmc_rank":24,"quote":{"USD":{"price":0.31746938993605,"market_cap":7549083292.913978,"market_cap_dominance":0.3557}}},{"name":"VeChain","symbol":"VET","cmc_rank":25,"quote":{"USD":{"price":0.11162769968223,"market_cap":7179399913.017435,"market_cap_dominance":0.3383}}},{"name":"Ethereum Classic","symbol":"ETC","cmc_rank":26,"quote":{"USD":{"price":53.37106641064286,"market_cap":6955385466.903071,"market_cap_dominance":0.3277}}},{"name":"FTX Token","symbol":"FTT","cmc_rank":27,"quote":{"USD":{"price":55.97457243784019,"market_cap":6747518221.174447,"market_cap_dominance":0.3179}}},{"name":"TRON","symbol":"TRX","cmc_rank":28,"quote":{"USD":{"price":0.09355754278221,"market_cap":6704301460.104571,"market_cap_dominance":0.3159}}},{"name":"Axie Infinity","symbol":"AXS","cmc_rank":29,"quote":{"USD":{"price":107.38997143994816,"market_cap":6540854685.478642,"market_cap_dominance":0.3082}}},{"name":"Dai","symbol":"DAI","cmc_rank":30,"quote":{"USD":{"price":1.00093076186543,"market_cap":6480978351.770929,"market_cap_dominance":0.3054}}},{"name":"Tezos","symbol":"XTZ","cmc_rank":31,"quote":{"USD":{"price":7.24968775124081,"market_cap":6246972541.811436,"market_cap_dominance":0.2943}}},{"name":"THETA","symbol":"THETA","cmc_rank":32,"quote":{"USD":{"price":6.10645369114915,"market_cap":6106453691.14915,"market_cap_dominance":0.2877}}},{"name":"Hedera Hashgraph","symbol":"HBAR","cmc_rank":33,"quote":{"USD":{"price":0.38993155461603,"market_cap":5783759617.238331,"market_cap_dominance":0.2725}}},{"name":"Bitcoin BEP2","symbol":"BTCB","cmc_rank":34,"quote":{"USD":{"price":47793.00353874547,"market_cap":5025274848.453286,"market_cap_dominance":0.2368}}},{"name":"Elrond","symbol":"EGLD","cmc_rank":35,"quote":{"USD":{"price":248.12889549564417,"market_cap":4846109963.116666,"market_cap_dominance":0.2283}}},{"name":"eCash","symbol":"XEC","cmc_rank":36,"quote":{"USD":{"price":0.00025140349031,"market_cap":4741323302.583242,"market_cap_dominance":0.2234}}},{"name":"PancakeSwap","symbol":"CAKE","cmc_rank":37,"quote":{"USD":{"price":20.12175655187514,"market_cap":4584251510.995417,"market_cap_dominance":0.216}}},{"name":"Monero","symbol":"XMR","cmc_rank":38,"quote":{"USD":{"price":253.51873753148035,"market_cap":4564353295.848454,"market_cap_dominance":0.2151}}},{"name":"Crypto.com Coin","symbol":"CRO","cmc_rank":39,"quote":{"USD":{"price":0.17634697441021,"market_cap":4455056029.067908,"market_cap_dominance":0.2099}}},{"name":"EOS","symbol":"EOS","cmc_rank":40,"quote":{"USD":{"price":4.32574281846717,"market_cap":4151325441.324081,"market_cap_dominance":0.1956}}},{"name":"Aave","symbol":"AAVE","cmc_rank":41,"quote":{"USD":{"price":313.3993619023632,"market_cap":4134079076.8730254,"market_cap_dominance":0.1948}}},{"name":"Quant","symbol":"QNT","cmc_rank":42,"quote":{"USD":{"price":323.3155120115689,"market_cap":3903303467.8515244,"market_cap_dominance":0.1839}}},{"name":"Fantom","symbol":"FTM","cmc_rank":43,"quote":{"USD":{"price":1.46377638621107,"market_cap":3725320085.1764436,"market_cap_dominance":0.1755}}},{"name":"NEAR Protocol","symbol":"NEAR","cmc_rank":44,"quote":{"USD":{"price":7.8446187961375,"market_cap":3701583844.9904013,"market_cap_dominance":0.1744}}},{"name":"IOTA","symbol":"MIOTA","cmc_rank":45,"quote":{"USD":{"price":1.2702147071166,"market_cap":3530600244.342565,"market_cap_dominance":0.1663}}},{"name":"The Graph","symbol":"GRT","cmc_rank":46,"quote":{"USD":{"price":0.72946681074366,"market_cap":3439972316.655616,"market_cap_dominance":0.1621}}},{"name":"SHIBA INU","symbol":"SHIB","cmc_rank":47,"quote":{"USD":{"price":0.00000796147644,"market_cap":3143159052.60624,"market_cap_dominance":0.1481}}},{"name":"Klaytn","symbol":"KLAY","cmc_rank":48,"quote":{"USD":{"price":1.20435104806097,"market_cap":3022497924.3243184,"market_cap_dominance":0.1424}}},{"name":"Kusama","symbol":"KSM","cmc_rank":49,"quote":{"USD":{"price":353.2212116733233,"market_cap":2991818298.7779665,"market_cap_dominance":0.141}}},{"name":"Neo","symbol":"NEO","cmc_rank":50,"quote":{"USD":{"price":42.50083923647483,"market_cap":2997959516.259867,"market_cap_dominance":0.1413}}},{"name":"Waves","symbol":"WAVES","cmc_rank":51,"quote":{"USD":{"price":26.38598958498467,"market_cap":2805492611.818599,"market_cap_dominance":0.1322}}},{"name":"UNUS SED LEO","symbol":"LEO","cmc_rank":52,"quote":{"USD":{"price":2.93531366463635,"market_cap":2800154593.225281,"market_cap_dominance":0.1319}}},{"name":"TerraUSD","symbol":"UST","cmc_rank":53,"quote":{"USD":{"price":0.99876483872581,"market_cap":2666918863.5046687,"market_cap_dominance":0.1257}}},{"name":"Bitcoin SV","symbol":"BSV","cmc_rank":54,"quote":{"USD":{"price":139.70142972288053,"market_cap":2634574485.4083967,"market_cap_dominance":0.1241}}},{"name":"Maker","symbol":"MKR","cmc_rank":55,"quote":{"USD":{"price":2482.7635073507563,"market_cap":2461233930.518772,"market_cap_dominance":0.116}}},{"name":"BitTorrent","symbol":"BTT","cmc_rank":56,"quote":{"USD":{"price":0.00344349094218,"market_cap":2272540886.4554143,"market_cap_dominance":0.1071}}},{"name":"OMG Network","symbol":"OMG","cmc_rank":57,"quote":{"USD":{"price":15.45535007170735,"market_cap":2167541725.8245387,"market_cap_dominance":0.1021}}},{"name":"Amp","symbol":"AMP","cmc_rank":58,"quote":{"USD":{"price":0.05032426722594,"market_cap":2125078169.1456747,"market_cap_dominance":0.1001}}},{"name":"Celo","symbol":"CELO","cmc_rank":59,"quote":{"USD":{"price":6.3477166782723,"market_cap":2075152022.8629508,"market_cap_dominance":0.0978}}},{"name":"Compound","symbol":"COMP","cmc_rank":60,"quote":{"USD":{"price":336.9294766078846,"market_cap":1855169920.1848042,"market_cap_dominance":0.0874}}},{"name":"THORChain","symbol":"RUNE","cmc_rank":61,"quote":{"USD":{"price":8.31058550178092,"market_cap":1864980280.411584,"market_cap_dominance":0.0879}}},{"name":"Helium","symbol":"HNT","cmc_rank":62,"quote":{"USD":{"price":18.77276662919913,"market_cap":1858559472.26483,"market_cap_dominance":0.0876}}},{"name":"Dash","symbol":"DASH","cmc_rank":63,"quote":{"USD":{"price":178.0420111218509,"market_cap":1844898821.9995193,"market_cap_dominance":0.0869}}},{"name":"Arweave","symbol":"AR","cmc_rank":64,"quote":{"USD":{"price":54.9258711509303,"market_cap":1834233044.2498431,"market_cap_dominance":0.0864}}},{"name":"Harmony","symbol":"ONE","cmc_rank":65,"quote":{"USD":{"price":0.16277061556137,"market_cap":1734986844.7047222,"market_cap_dominance":0.0817}}},{"name":"Chiliz","symbol":"CHZ","cmc_rank":66,"quote":{"USD":{"price":0.28349917697857,"market_cap":1675785439.457328,"market_cap_dominance":0.079}}},{"name":"Stacks","symbol":"STX","cmc_rank":67,"quote":{"USD":{"price":1.33278245446566,"market_cap":1665425528.8269768,"market_cap_dominance":0.0785}}},{"name":"XDC Network","symbol":"XDC","cmc_rank":68,"quote":{"USD":{"price":0.13546624707394,"market_cap":1666122171.5963044,"market_cap_dominance":0.0785}}},{"name":"Revain","symbol":"REV","cmc_rank":69,"quote":{"USD":{"price":0.01952122496601,"market_cap":1660504398.0942903,"market_cap_dominance":0.0782}}},{"name":"Theta Fuel","symbol":"TFUEL","cmc_rank":70,"quote":{"USD":{"price":0.298626440533,"market_cap":1583082786.7742834,"market_cap_dominance":0.0746}}},{"name":"Decred","symbol":"DCR","cmc_rank":71,"quote":{"USD":{"price":114.95384901235904,"market_cap":1536526597.1165311,"market_cap_dominance":0.0724}}},{"name":"Holo","symbol":"HOT","cmc_rank":72,"quote":{"USD":{"price":0.008646528774,"market_cap":1494949118.6943128,"market_cap_dominance":0.0704}}},{"name":"Zcash","symbol":"ZEC","cmc_rank":73,"quote":{"USD":{"price":114.91951880999993,"market_cap":1468631228.5602155,"market_cap_dominance":0.0692}}},{"name":"NEM","symbol":"XEM","cmc_rank":74,"quote":{"USD":{"price":0.1595232172335,"market_cap":1435708954.9419768,"market_cap_dominance":0.0676}}},{"name":"SushiSwap","symbol":"SUSHI","cmc_rank":75,"quote":{"USD":{"price":10.95063922058413,"market_cap":1393407988.1171818,"market_cap_dominance":0.0657}}},{"name":"Huobi Token","symbol":"HT","cmc_rank":76,"quote":{"USD":{"price":8.35403793126585,"market_cap":1370742985.0499485,"market_cap_dominance":0.0646}}},{"name":"Celsius","symbol":"CEL","cmc_rank":77,"quote":{"USD":{"price":5.74199277886067,"market_cap":1371552605.9741344,"market_cap_dominance":0.0646}}},{"name":"Decentraland","symbol":"MANA","cmc_rank":78,"quote":{"USD":{"price":0.75418333328682,"market_cap":1370330822.6362243,"market_cap_dominance":0.0646}}},{"name":"TrueUSD","symbol":"TUSD","cmc_rank":79,"quote":{"USD":{"price":1.00010844149772,"market_cap":1341606016.5679877,"market_cap_dominance":0.0632}}},{"name":"Qtum","symbol":"QTUM","cmc_rank":80,"quote":{"USD":{"price":13.4301462210277,"market_cap":1326179648.1025438,"market_cap_dominance":0.0625}}},{"name":"ICON","symbol":"ICX","cmc_rank":81,"quote":{"USD":{"price":1.96393640756542,"market_cap":1318127219.3202772,"market_cap_dominance":0.0621}}},{"name":"dYdX","symbol":"DYDX","cmc_rank":82,"quote":{"USD":{"price":22.80729324185365,"market_cap":1269888648.8507638,"market_cap_dominance":0.0598}}},{"name":"Enjin Coin","symbol":"ENJ","cmc_rank":83,"quote":{"USD":{"price":1.51037772163257,"market_cap":1260169544.463064,"market_cap_dominance":0.0594}}},{"name":"Synthetix","symbol":"SNX","cmc_rank":84,"quote":{"USD":{"price":10.98874156317629,"market_cap":1261963926.9876187,"market_cap_dominance":0.0595}}},{"name":"Ren","symbol":"REN","cmc_rank":85,"quote":{"USD":{"price":1.21052231541134,"market_cap":1207815649.2712116,"market_cap_dominance":0.0569}}},{"name":"Flow","symbol":"FLOW","cmc_rank":86,"quote":{"USD":{"price":18.66184536827443,"market_cap":1202654824.1070817,"market_cap_dominance":0.0567}}},{"name":"yearn.finance","symbol":"YFI","cmc_rank":87,"quote":{"USD":{"price":31941.735666313627,"market_cap":1170199534.9645483,"market_cap_dominance":0.0551}}},{"name":"Serum","symbol":"SRM","cmc_rank":88,"quote":{"USD":{"price":8.68678528365213,"market_cap":1157355874.5055635,"market_cap_dominance":0.0545}}},{"name":"Zilliqa","symbol":"ZIL","cmc_rank":89,"quote":{"USD":{"price":0.09691575998007,"market_cap":1144851527.0890672,"market_cap_dominance":0.0539}}},{"name":"Mina","symbol":"MINA","cmc_rank":90,"quote":{"USD":{"price":4.4930370018674,"market_cap":1138237920.8391898,"market_cap_dominance":0.0536}}},{"name":"Curve DAO Token","symbol":"CRV","cmc_rank":91,"quote":{"USD":{"price":2.5577178456602,"market_cap":1091502096.540362,"market_cap_dominance":0.0514}}},{"name":"OKB","symbol":"OKB","cmc_rank":92,"quote":{"USD":{"price":18.09850983624673,"market_cap":1085910590.1748037,"market_cap_dominance":0.0512}}},{"name":"Ravencoin","symbol":"RVN","cmc_rank":93,"quote":{"USD":{"price":0.11093590654574,"market_cap":1084927650.7588317,"market_cap_dominance":0.0511}}},{"name":"Perpetual Protocol","symbol":"PERP","cmc_rank":94,"quote":{"USD":{"price":15.58375863297915,"market_cap":1070604218.0856676,"market_cap_dominance":0.0504}}},{"name":"Basic Attention Token","symbol":"BAT","cmc_rank":95,"quote":{"USD":{"price":0.70974257897056,"market_cap":1057978484.6928054,"market_cap_dominance":0.0498}}},{"name":"Bitcoin Gold","symbol":"BTG","cmc_rank":96,"quote":{"USD":{"price":59.5736060755787,"market_cap":1043367584.7288716,"market_cap_dominance":0.0492}}},{"name":"IOST","symbol":"IOST","cmc_rank":97,"quote":{"USD":{"price":0.05645674026635,"market_cap":1021851170.1011233,"market_cap_dominance":0.0481}}},{"name":"Telcoin","symbol":"TEL","cmc_rank":98,"quote":{"USD":{"price":0.0172742010443,"market_cap":943207828.9564623,"market_cap_dominance":0.0444}}},{"name":"Pax Dollar","symbol":"USDP","cmc_rank":99,"quote":{"USD":{"price":0.99967694008465,"market_cap":945337440.7818167,"market_cap_dominance":0.0445}}},{"name":"Audius","symbol":"AUDIO","cmc_rank":100,"quote":{"USD":{"price":2.30967610178855,"market_cap":951380861.1122856,"market_cap_dominance":0.0448}}}]}
+{
+ "data": [
+  {
+   "name": "Bitcoin",
+   "symbol": "BTC",
+   "cmc_rank": 1,
+   "quote": {
+    "USD": {
+     "price": 61422.28861379695,
+     "market_cap": 1158779445506.6868,
+     "market_cap_dominance": 42.5309
+    }
+   }
+  },
+  {
+   "name": "Ethereum",
+   "symbol": "ETH",
+   "cmc_rank": 2,
+   "quote": {
+    "USD": {
+     "price": 4513.3785101201975,
+     "market_cap": 533641887535.3667,
+     "market_cap_dominance": 19.5812
+    }
+   }
+  },
+  {
+   "name": "Binance Coin",
+   "symbol": "BNB",
+   "cmc_rank": 3,
+   "quote": {
+    "USD": {
+     "price": 629.4682963364887,
+     "market_cap": 104996034458.53052,
+     "market_cap_dominance": 3.8527
+    }
+   }
+  },
+  {
+   "name": "Solana",
+   "symbol": "SOL",
+   "cmc_rank": 4,
+   "quote": {
+    "USD": {
+     "price": 257.96685112725976,
+     "market_cap": 77702408451.64629,
+     "market_cap_dominance": 2.8505
+    }
+   }
+  },
+  {
+   "name": "Tether",
+   "symbol": "USDT",
+   "cmc_rank": 5,
+   "quote": {
+    "USD": {
+     "price": 1.00093538948849,
+     "market_cap": 71919514525.1304,
+     "market_cap_dominance": 2.639
+    }
+   }
+  },
+  {
+   "name": "Cardano",
+   "symbol": "ADA",
+   "cmc_rank": 6,
+   "quote": {
+    "USD": {
+     "price": 1.99438678639177,
+     "market_cap": 66383057239.36134,
+     "market_cap_dominance": 2.4352
+    }
+   }
+  },
+  {
+   "name": "XRP",
+   "symbol": "XRP",
+   "cmc_rank": 7,
+   "quote": {
+    "USD": {
+     "price": 1.15111742635423,
+     "market_cap": 54196542247.873085,
+     "market_cap_dominance": 1.9882
+    }
+   }
+  },
+  {
+   "name": "Polkadot",
+   "symbol": "DOT",
+   "cmc_rank": 8,
+   "quote": {
+    "USD": {
+     "price": 52.02072732145149,
+     "market_cap": 51374594251.68838,
+     "market_cap_dominance": 1.8861
+    }
+   }
+  },
+  {
+   "name": "Dogecoin",
+   "symbol": "DOGE",
+   "cmc_rank": 9,
+   "quote": {
+    "USD": {
+     "price": 0.2620114391977,
+     "market_cap": 34588483012.56829,
+     "market_cap_dominance": 1.2689
+    }
+   }
+  },
+  {
+   "name": "USD Coin",
+   "symbol": "USDC",
+   "cmc_rank": 10,
+   "quote": {
+    "USD": {
+     "price": 1.0001908521013,
+     "market_cap": 34215476863.132668,
+     "market_cap_dominance": 1.2558
+    }
+   }
+  },
+  {
+   "name": "SHIBA INU",
+   "symbol": "SHIB",
+   "cmc_rank": 11,
+   "quote": {
+    "USD": {
+     "price": 0.00005787433407,
+     "market_cap": 31778536966.93438,
+     "market_cap_dominance": 1.1661
+    }
+   }
+  },
+  {
+   "name": "Terra",
+   "symbol": "LUNA",
+   "cmc_rank": 12,
+   "quote": {
+    "USD": {
+     "price": 51.07437093163112,
+     "market_cap": 20386482921.867027,
+     "market_cap_dominance": 0.7479
+    }
+   }
+  },
+  {
+   "name": "Avalanche",
+   "symbol": "AVAX",
+   "cmc_rank": 13,
+   "quote": {
+    "USD": {
+     "price": 77.92266252683665,
+     "market_cap": 17165316614.935951,
+     "market_cap_dominance": 0.6299
+    }
+   }
+  },
+  {
+   "name": "Uniswap",
+   "symbol": "UNI",
+   "cmc_rank": 14,
+   "quote": {
+    "USD": {
+     "price": 25.08822604818187,
+     "market_cap": 15745272536.59433,
+     "market_cap_dominance": 0.5778
+    }
+   }
+  },
+  {
+   "name": "Chainlink",
+   "symbol": "LINK",
+   "cmc_rank": 15,
+   "quote": {
+    "USD": {
+     "price": 31.83803495451613,
+     "market_cap": 14773152396.853645,
+     "market_cap_dominance": 0.5419
+    }
+   }
+  },
+  {
+   "name": "Wrapped Bitcoin",
+   "symbol": "WBTC",
+   "cmc_rank": 16,
+   "quote": {
+    "USD": {
+     "price": 61436.673869882485,
+     "market_cap": 14424345368.48663,
+     "market_cap_dominance": 0.5291
+    }
+   }
+  },
+  {
+   "name": "Litecoin",
+   "symbol": "LTC",
+   "cmc_rank": 17,
+   "quote": {
+    "USD": {
+     "price": 197.71407398401473,
+     "market_cap": 13625471857.938011,
+     "market_cap_dominance": 0.5002
+    }
+   }
+  },
+  {
+   "name": "Binance USD",
+   "symbol": "BUSD",
+   "cmc_rank": 18,
+   "quote": {
+    "USD": {
+     "price": 1.00016066262147,
+     "market_cap": 13547426104.715693,
+     "market_cap_dominance": 0.497
+    }
+   }
+  },
+  {
+   "name": "Polygon",
+   "symbol": "MATIC",
+   "cmc_rank": 19,
+   "quote": {
+    "USD": {
+     "price": 1.89298994737707,
+     "market_cap": 12914569849.75842,
+     "market_cap_dominance": 0.474
+    }
+   }
+  },
+  {
+   "name": "Algorand",
+   "symbol": "ALGO",
+   "cmc_rank": 20,
+   "quote": {
+    "USD": {
+     "price": 1.8375475674347,
+     "market_cap": 11447518895.239893,
+     "market_cap_dominance": 0.4203
+    }
+   }
+  },
+  {
+   "name": "Bitcoin Cash",
+   "symbol": "BCH",
+   "cmc_rank": 21,
+   "quote": {
+    "USD": {
+     "price": 588.1613987853275,
+     "market_cap": 11112188447.382328,
+     "market_cap_dominance": 0.4079
+    }
+   }
+  },
+  {
+   "name": "VeChain",
+   "symbol": "VET",
+   "cmc_rank": 22,
+   "quote": {
+    "USD": {
+     "price": 0.15743656265043,
+     "market_cap": 10125623366.027252,
+     "market_cap_dominance": 0.3715
+    }
+   }
+  },
+  {
+   "name": "Axie Infinity",
+   "symbol": "AXS",
+   "cmc_rank": 23,
+   "quote": {
+    "USD": {
+     "price": 162.5151905058951,
+     "market_cap": 9898393965.737806,
+     "market_cap_dominance": 0.3632
+    }
+   }
+  },
+  {
+   "name": "Stellar",
+   "symbol": "XLM",
+   "cmc_rank": 24,
+   "quote": {
+    "USD": {
+     "price": 0.35742793799878,
+     "market_cap": 8652119103.663263,
+     "market_cap_dominance": 0.3174
+    }
+   }
+  },
+  {
+   "name": "Internet Computer",
+   "symbol": "ICP",
+   "cmc_rank": 25,
+   "quote": {
+    "USD": {
+     "price": 49.02711309076364,
+     "market_cap": 8595124844.827673,
+     "market_cap_dominance": 0.3155
+    }
+   }
+  },
+  {
+   "name": "Crypto.com Coin",
+   "symbol": "CRO",
+   "cmc_rank": 26,
+   "quote": {
+    "USD": {
+     "price": 0.33874688684091,
+     "market_cap": 8557767240.384283,
+     "market_cap_dominance": 0.3139
+    }
+   }
+  },
+  {
+   "name": "Cosmos",
+   "symbol": "ATOM",
+   "cmc_rank": 27,
+   "quote": {
+    "USD": {
+     "price": 36.11984891835799,
+     "market_cap": 8095581427.155883,
+     "market_cap_dominance": 0.2971
+    }
+   }
+  },
+  {
+   "name": "THETA",
+   "symbol": "THETA",
+   "cmc_rank": 28,
+   "quote": {
+    "USD": {
+     "price": 7.44258034653684,
+     "market_cap": 7442580346.5368395,
+     "market_cap_dominance": 0.2732
+    }
+   }
+  },
+  {
+   "name": "Filecoin",
+   "symbol": "FIL",
+   "cmc_rank": 29,
+   "quote": {
+    "USD": {
+     "price": 61.39704190377458,
+     "market_cap": 7399098548.829127,
+     "market_cap_dominance": 0.2715
+    }
+   }
+  },
+  {
+   "name": "TRON",
+   "symbol": "TRX",
+   "cmc_rank": 30,
+   "quote": {
+    "USD": {
+     "price": 0.10234198789774,
+     "market_cap": 7333791787.264542,
+     "market_cap_dominance": 0.2691
+    }
+   }
+  },
+  {
+   "name": "FTX Token",
+   "symbol": "FTT",
+   "cmc_rank": 31,
+   "quote": {
+    "USD": {
+     "price": 60.53893537255839,
+     "market_cap": 7265564117.545429,
+     "market_cap_dominance": 0.2667
+    }
+   }
+  },
+  {
+   "name": "Fantom",
+   "symbol": "FTM",
+   "cmc_rank": 32,
+   "quote": {
+    "USD": {
+     "price": 2.7387484556343,
+     "market_cap": 6970131999.758355,
+     "market_cap_dominance": 0.2558
+    }
+   }
+  },
+  {
+   "name": "Ethereum Classic",
+   "symbol": "ETC",
+   "cmc_rank": 33,
+   "quote": {
+    "USD": {
+     "price": 52.68028310452029,
+     "market_cap": 6891666430.1818695,
+     "market_cap_dominance": 0.2529
+    }
+   }
+  },
+  {
+   "name": "Dai",
+   "symbol": "DAI",
+   "cmc_rank": 34,
+   "quote": {
+    "USD": {
+     "price": 1.00071490454895,
+     "market_cap": 6479580686.069687,
+     "market_cap_dominance": 0.2377
+    }
+   }
+  },
+  {
+   "name": "Bitcoin BEP2",
+   "symbol": "BTCB",
+   "cmc_rank": 35,
+   "quote": {
+    "USD": {
+     "price": 60993.89481089502,
+     "market_cap": 6410810100.470096,
+     "market_cap_dominance": 0.2353
+    }
+   }
+  },
+  {
+   "name": "Elrond",
+   "symbol": "EGLD",
+   "cmc_rank": 36,
+   "quote": {
+    "USD": {
+     "price": 319.3612444606304,
+     "market_cap": 6290716241.333853,
+     "market_cap_dominance": 0.2309
+    }
+   }
+  },
+  {
+   "name": "Hedera",
+   "symbol": "HBAR",
+   "cmc_rank": 37,
+   "quote": {
+    "USD": {
+     "price": 0.38407568116871,
+     "market_cap": 5768410218.596848,
+     "market_cap_dominance": 0.2117
+    }
+   }
+  },
+  {
+   "name": "Tezos",
+   "symbol": "XTZ",
+   "cmc_rank": 38,
+   "quote": {
+    "USD": {
+     "price": 6.43508247774854,
+     "market_cap": 5572204863.953206,
+     "market_cap_dominance": 0.2045
+    }
+   }
+  },
+  {
+   "name": "NEAR Protocol",
+   "symbol": "NEAR",
+   "cmc_rank": 39,
+   "quote": {
+    "USD": {
+     "price": 10.17773285664338,
+     "market_cap": 5426122236.942056,
+     "market_cap_dominance": 0.1991
+    }
+   }
+  },
+  {
+   "name": "Decentraland",
+   "symbol": "MANA",
+   "cmc_rank": 40,
+   "quote": {
+    "USD": {
+     "price": 2.82457895554044,
+     "market_cap": 5132070691.404165,
+     "market_cap_dominance": 0.1883
+    }
+   }
+  },
+  {
+   "name": "The Graph",
+   "symbol": "GRT",
+   "cmc_rank": 41,
+   "quote": {
+    "USD": {
+     "price": 1.06120296676512,
+     "market_cap": 5004352184.718706,
+     "market_cap_dominance": 0.1837
+    }
+   }
+  },
+  {
+   "name": "Monero",
+   "symbol": "XMR",
+   "cmc_rank": 42,
+   "quote": {
+    "USD": {
+     "price": 259.131145161587,
+     "market_cap": 4668015290.891204,
+     "market_cap_dominance": 0.1713
+    }
+   }
+  },
+  {
+   "name": "PancakeSwap",
+   "symbol": "CAKE",
+   "cmc_rank": 43,
+   "quote": {
+    "USD": {
+     "price": 19.05612263987739,
+     "market_cap": 4567298720.215785,
+     "market_cap_dominance": 0.1675
+    }
+   }
+  },
+  {
+   "name": "EOS",
+   "symbol": "EOS",
+   "cmc_rank": 44,
+   "quote": {
+    "USD": {
+     "price": 4.45068286967135,
+     "market_cap": 4284303160.0059795,
+     "market_cap_dominance": 0.1572
+    }
+   }
+  },
+  {
+   "name": "Flow",
+   "symbol": "FLOW",
+   "cmc_rank": 45,
+   "quote": {
+    "USD": {
+     "price": 13.81087904979204,
+     "market_cap": 4272702532.759719,
+     "market_cap_dominance": 0.1568
+    }
+   }
+  },
+  {
+   "name": "Aave",
+   "symbol": "AAVE",
+   "cmc_rank": 46,
+   "quote": {
+    "USD": {
+     "price": 319.51853159021096,
+     "market_cap": 4231531952.4084744,
+     "market_cap_dominance": 0.1553
+    }
+   }
+  },
+  {
+   "name": "Klaytn",
+   "symbol": "KLAY",
+   "cmc_rank": 47,
+   "quote": {
+    "USD": {
+     "price": 1.62245092644041,
+     "market_cap": 4088415369.9754596,
+     "market_cap_dominance": 0.1501
+    }
+   }
+  },
+  {
+   "name": "Helium",
+   "symbol": "HNT",
+   "cmc_rank": 48,
+   "quote": {
+    "USD": {
+     "price": 38.27597898982432,
+     "market_cap": 3886616802.7721286,
+     "market_cap_dominance": 0.1426
+    }
+   }
+  },
+  {
+   "name": "Kusama",
+   "symbol": "KSM",
+   "cmc_rank": 49,
+   "quote": {
+    "USD": {
+     "price": 444.3839306965588,
+     "market_cap": 3763975468.0714006,
+     "market_cap_dominance": 0.1381
+    }
+   }
+  },
+  {
+   "name": "IOTA",
+   "symbol": "MIOTA",
+   "cmc_rank": 50,
+   "quote": {
+    "USD": {
+     "price": 1.34322888259301,
+     "market_cap": 3733545356.167523,
+     "market_cap_dominance": 0.137
+    }
+   }
+  },
+  {
+   "name": "eCash",
+   "symbol": "XEC",
+   "cmc_rank": 51,
+   "quote": {
+    "USD": {
+     "price": 0.00019452501442,
+     "market_cap": 3674545605.373895,
+     "market_cap_dominance": 0.1349
+    }
+   }
+  },
+  {
+   "name": "THORChain",
+   "symbol": "RUNE",
+   "cmc_rank": 52,
+   "quote": {
+    "USD": {
+     "price": 13.76041959925017,
+     "market_cap": 3553080905.168139,
+     "market_cap_dominance": 0.1303
+    }
+   }
+  },
+  {
+   "name": "Bitcoin SV",
+   "symbol": "BSV",
+   "cmc_rank": 53,
+   "quote": {
+    "USD": {
+     "price": 169.04687507379066,
+     "market_cap": 3193277786.8669024,
+     "market_cap_dominance": 0.1172
+    }
+   }
+  },
+  {
+   "name": "Neo",
+   "symbol": "NEO",
+   "cmc_rank": 54,
+   "quote": {
+    "USD": {
+     "price": 44.79867471959671,
+     "market_cap": 3160046145.069605,
+     "market_cap_dominance": 0.116
+    }
+   }
+  },
+  {
+   "name": "UNUS SED LEO",
+   "symbol": "LEO",
+   "cmc_rank": 55,
+   "quote": {
+    "USD": {
+     "price": 3.24119703927025,
+     "market_cap": 3091953301.755627,
+     "market_cap_dominance": 0.1134
+    }
+   }
+  },
+  {
+   "name": "Harmony",
+   "symbol": "ONE",
+   "cmc_rank": 57,
+   "quote": {
+    "USD": {
+     "price": 0.28489945044731,
+     "market_cap": 3072623179.9914675,
+     "market_cap_dominance": 0.1128
+    }
+   }
+  },
+  {
+   "name": "Quant",
+   "symbol": "QNT",
+   "cmc_rank": 56,
+   "quote": {
+    "USD": {
+     "price": 254.6539259039166,
+     "market_cap": 3074370128.1093984,
+     "market_cap_dominance": 0.1128
+    }
+   }
+  },
+  {
+   "name": "Chiliz",
+   "symbol": "CHZ",
+   "cmc_rank": 58,
+   "quote": {
+    "USD": {
+     "price": 0.5143953094294,
+     "market_cap": 3056067845.647102,
+     "market_cap_dominance": 0.1121
+    }
+   }
+  },
+  {
+   "name": "Maker",
+   "symbol": "MKR",
+   "cmc_rank": 59,
+   "quote": {
+    "USD": {
+     "price": 3057.5191445604582,
+     "market_cap": 3031005506.373341,
+     "market_cap_dominance": 0.1112
+    }
+   }
+  },
+  {
+   "name": "TerraUSD",
+   "symbol": "UST",
+   "cmc_rank": 60,
+   "quote": {
+    "USD": {
+     "price": 1.00339645119266,
+     "market_cap": 2873049940.1936274,
+     "market_cap_dominance": 0.1054
+    }
+   }
+  },
+  {
+   "name": "Enjin Coin",
+   "symbol": "ENJ",
+   "cmc_rank": 61,
+   "quote": {
+    "USD": {
+     "price": 3.35961926962582,
+     "market_cap": 2803066957.315484,
+     "market_cap_dominance": 0.1029
+    }
+   }
+  },
+  {
+   "name": "Arweave",
+   "symbol": "AR",
+   "cmc_rank": 63,
+   "quote": {
+    "USD": {
+     "price": 80.693624214711,
+     "market_cap": 2694739453.2566333,
+     "market_cap_dominance": 0.0989
+    }
+   }
+  },
+  {
+   "name": "Waves",
+   "symbol": "WAVES",
+   "cmc_rank": 62,
+   "quote": {
+    "USD": {
+     "price": 25.19310358735336,
+     "market_cap": 2686284102.195039,
+     "market_cap_dominance": 0.0985
+    }
+   }
+  },
+  {
+   "name": "Holo",
+   "symbol": "HOT",
+   "cmc_rank": 64,
+   "quote": {
+    "USD": {
+     "price": 0.01483819128744,
+     "market_cap": 2565461998.447061,
+     "market_cap_dominance": 0.0942
+    }
+   }
+  },
+  {
+   "name": "BitTorrent",
+   "symbol": "BTT",
+   "cmc_rank": 65,
+   "quote": {
+    "USD": {
+     "price": 0.00386634135286,
+     "market_cap": 2551602124.966008,
+     "market_cap_dominance": 0.0937
+    }
+   }
+  },
+  {
+   "name": "Stacks",
+   "symbol": "STX",
+   "cmc_rank": 66,
+   "quote": {
+    "USD": {
+     "price": 1.98220523793087,
+     "market_cap": 2541861741.4296985,
+     "market_cap_dominance": 0.0933
+    }
+   }
+  },
+  {
+   "name": "Amp",
+   "symbol": "AMP",
+   "cmc_rank": 67,
+   "quote": {
+    "USD": {
+     "price": 0.05943509245689,
+     "market_cap": 2509807383.666926,
+     "market_cap_dominance": 0.0921
+    }
+   }
+  },
+  {
+   "name": "The Sandbox",
+   "symbol": "SAND",
+   "cmc_rank": 68,
+   "quote": {
+    "USD": {
+     "price": 2.66298571916691,
+     "market_cap": 2376038673.473804,
+     "market_cap_dominance": 0.0872
+    }
+   }
+  },
+  {
+   "name": "OMG Network",
+   "symbol": "OMG",
+   "cmc_rank": 69,
+   "quote": {
+    "USD": {
+     "price": 16.56233336629103,
+     "market_cap": 2322791038.824136,
+     "market_cap_dominance": 0.0852
+    }
+   }
+  },
+  {
+   "name": "Celo",
+   "symbol": "CELO",
+   "cmc_rank": 70,
+   "quote": {
+    "USD": {
+     "price": 6.31261323815088,
+     "market_cap": 2192356424.730921,
+     "market_cap_dominance": 0.0805
+    }
+   }
+  },
+  {
+   "name": "Compound",
+   "symbol": "COMP",
+   "cmc_rank": 71,
+   "quote": {
+    "USD": {
+     "price": 353.1807417874523,
+     "market_cap": 2125757892.4125862,
+     "market_cap_dominance": 0.078
+    }
+   }
+  },
+  {
+   "name": "Zcash",
+   "symbol": "ZEC",
+   "cmc_rank": 72,
+   "quote": {
+    "USD": {
+     "price": 160.20617954709027,
+     "market_cap": 2087433451.2016113,
+     "market_cap_dominance": 0.0766
+    }
+   }
+  },
+  {
+   "name": "Kadena",
+   "symbol": "KDA",
+   "cmc_rank": 73,
+   "quote": {
+    "USD": {
+     "price": 13.08499616816258,
+     "market_cap": 2052535092.9199393,
+     "market_cap_dominance": 0.0754
+    }
+   }
+  },
+  {
+   "name": "NEM",
+   "symbol": "XEM",
+   "cmc_rank": 74,
+   "quote": {
+    "USD": {
+     "price": 0.22350487204951,
+     "market_cap": 2011543848.2220852,
+     "market_cap_dominance": 0.0738
+    }
+   }
+  },
+  {
+   "name": "Dash",
+   "symbol": "DASH",
+   "cmc_rank": 75,
+   "quote": {
+    "USD": {
+     "price": 190.70568975807208,
+     "market_cap": 1986794077.8655071,
+     "market_cap_dominance": 0.0729
+    }
+   }
+  },
+  {
+   "name": "Theta Fuel",
+   "symbol": "TFUEL",
+   "cmc_rank": 76,
+   "quote": {
+    "USD": {
+     "price": 0.37400915042219,
+     "market_cap": 1982702693.94988,
+     "market_cap_dominance": 0.0728
+    }
+   }
+  },
+  {
+   "name": "Loopring",
+   "symbol": "LRC",
+   "cmc_rank": 77,
+   "quote": {
+    "USD": {
+     "price": 1.29367578854911,
+     "market_cap": 1714289335.5876775,
+     "market_cap_dominance": 0.0629
+    }
+   }
+  },
+  {
+   "name": "Curve DAO Token",
+   "symbol": "CRV",
+   "cmc_rank": 78,
+   "quote": {
+    "USD": {
+     "price": 4.06146944683795,
+     "market_cap": 1679365967.1531572,
+     "market_cap_dominance": 0.0616
+    }
+   }
+  },
+  {
+   "name": "Qtum",
+   "symbol": "QTUM",
+   "cmc_rank": 79,
+   "quote": {
+    "USD": {
+     "price": 16.83944224191292,
+     "market_cap": 1664423214.0353994,
+     "market_cap_dominance": 0.0611
+    }
+   }
+  },
+  {
+   "name": "Huobi Token",
+   "symbol": "HT",
+   "cmc_rank": 80,
+   "quote": {
+    "USD": {
+     "price": 10.24612763334364,
+     "market_cap": 1658123613.9907584,
+     "market_cap_dominance": 0.0608
+    }
+   }
+  },
+  {
+   "name": "Nexo",
+   "symbol": "NEXO",
+   "cmc_rank": 81,
+   "quote": {
+    "USD": {
+     "price": 2.91834828673277,
+     "market_cap": 1634275072.6721823,
+     "market_cap_dominance": 0.06
+    }
+   }
+  },
+  {
+   "name": "OKB",
+   "symbol": "OKB",
+   "cmc_rank": 82,
+   "quote": {
+    "USD": {
+     "price": 25.94961024492641,
+     "market_cap": 1556976614.6955848,
+     "market_cap_dominance": 0.0571
+    }
+   }
+  },
+  {
+   "name": "SushiSwap",
+   "symbol": "SUSHI",
+   "cmc_rank": 83,
+   "quote": {
+    "USD": {
+     "price": 11.81191620831356,
+     "market_cap": 1503000698.6895308,
+     "market_cap_dominance": 0.0552
+    }
+   }
+  },
+  {
+   "name": "KuCoin Token",
+   "symbol": "KCS",
+   "cmc_rank": 84,
+   "quote": {
+    "USD": {
+     "price": 18.61901306693147,
+     "market_cap": 1491729967.8267522,
+     "market_cap_dominance": 0.0548
+    }
+   }
+  },
+  {
+   "name": "Basic Attention Token",
+   "symbol": "BAT",
+   "cmc_rank": 85,
+   "quote": {
+    "USD": {
+     "price": 0.99963579927398,
+     "market_cap": 1491309102.7068818,
+     "market_cap_dominance": 0.0547
+    }
+   }
+  },
+  {
+   "name": "Decred",
+   "symbol": "DCR",
+   "cmc_rank": 86,
+   "quote": {
+    "USD": {
+     "price": 106.80109426733974,
+     "market_cap": 1438858203.255998,
+     "market_cap_dominance": 0.0528
+    }
+   }
+  },
+  {
+   "name": "ICON",
+   "symbol": "ICX",
+   "cmc_rank": 87,
+   "quote": {
+    "USD": {
+     "price": 2.05945747980097,
+     "market_cap": 1387019025.8818493,
+     "market_cap_dominance": 0.0509
+    }
+   }
+  },
+  {
+   "name": "Ravencoin",
+   "symbol": "RVN",
+   "cmc_rank": 88,
+   "quote": {
+    "USD": {
+     "price": 0.13750639708712,
+     "market_cap": 1379124534.7771828,
+     "market_cap_dominance": 0.0506
+    }
+   }
+  },
+  {
+   "name": "Secret",
+   "symbol": "SCRT",
+   "cmc_rank": 89,
+   "quote": {
+    "USD": {
+     "price": 9.00613663328579,
+     "market_cap": 1349260925.1893163,
+     "market_cap_dominance": 0.0495
+    }
+   }
+  },
+  {
+   "name": "Revain",
+   "symbol": "REV",
+   "cmc_rank": 90,
+   "quote": {
+    "USD": {
+     "price": 0.01533157952851,
+     "market_cap": 1304126932.6669054,
+     "market_cap_dominance": 0.0478
+    }
+   }
+  },
+  {
+   "name": "Zilliqa",
+   "symbol": "ZIL",
+   "cmc_rank": 91,
+   "quote": {
+    "USD": {
+     "price": 0.10680633303337,
+     "market_cap": 1277969256.4290109,
+     "market_cap_dominance": 0.0469
+    }
+   }
+  },
+  {
+   "name": "Audius",
+   "symbol": "AUDIO",
+   "cmc_rank": 92,
+   "quote": {
+    "USD": {
+     "price": 2.53135984316054,
+     "market_cap": 1276005257.377007,
+     "market_cap_dominance": 0.0468
+    }
+   }
+  },
+  {
+   "name": "yearn.finance",
+   "symbol": "YFI",
+   "cmc_rank": 93,
+   "quote": {
+    "USD": {
+     "price": 33693.498928651476,
+     "market_cap": 1234453020.872419,
+     "market_cap_dominance": 0.0453
+    }
+   }
+  },
+  {
+   "name": "TrueUSD",
+   "symbol": "TUSD",
+   "cmc_rank": 94,
+   "quote": {
+    "USD": {
+     "price": 1.00006845445154,
+     "market_cap": 1223541351.414329,
+     "market_cap_dominance": 0.0449
+    }
+   }
+  },
+  {
+   "name": "Mina",
+   "symbol": "MINA",
+   "cmc_rank": 95,
+   "quote": {
+    "USD": {
+     "price": 4.2350329594302,
+     "market_cap": 1210087884.2032998,
+     "market_cap_dominance": 0.0444
+    }
+   }
+  },
+  {
+   "name": "Perpetual Protocol",
+   "symbol": "PERP",
+   "cmc_rank": 96,
+   "quote": {
+    "USD": {
+     "price": 17.43808024871061,
+     "market_cap": 1197996113.0864189,
+     "market_cap_dominance": 0.044
+    }
+   }
+  },
+  {
+   "name": "Telcoin",
+   "symbol": "TEL",
+   "cmc_rank": 97,
+   "quote": {
+    "USD": {
+     "price": 0.02155790975297,
+     "market_cap": 1186269475.5567973,
+     "market_cap_dominance": 0.0435
+    }
+   }
+  },
+  {
+   "name": "XDC Network",
+   "symbol": "XDC",
+   "cmc_rank": 98,
+   "quote": {
+    "USD": {
+     "price": 0.09514595436599,
+     "market_cap": 1170772176.708195,
+     "market_cap_dominance": 0.0429
+    }
+   }
+  },
+  {
+   "name": "Synthetix",
+   "symbol": "SNX",
+   "cmc_rank": 99,
+   "quote": {
+    "USD": {
+     "price": 10.16829293218493,
+     "market_cap": 1167742348.4469912,
+     "market_cap_dominance": 0.0428
+    }
+   }
+  },
+  {
+   "name": "Bitcoin Gold",
+   "symbol": "BTG",
+   "cmc_rank": 100,
+   "quote": {
+    "USD": {
+     "price": 63.59920586622818,
+     "market_cap": 1113871631.862201,
+     "market_cap_dominance": 0.0409
+    }
+   }
+  }
+ ]
+}
